@@ -38,7 +38,7 @@ Welcome to my command center. I am a **Cybersecurity Engineer** and **Algorithmi
 
 ## 🚀 Featured Operations
 
-### [Jumpstreet Trading Portal](https://ajainx1.github.io/js)
+### [Jumpstreet Trading Portal](https://jumpstreet.tech)
 A secure, high-availability platform offering VIP algorithmic trading setups. It provisions sub-millisecond Windows Cloud VMs seamlessly integrated with our execution logic.
 
 ### 🐋 Orca6 Trading Suite
@@ -64,7 +64,7 @@ A proprietary, autonomous indicator and execution bot designed for zero-latency 
 If you are interested in a trial of Orca6 or require VIP setup for algorithmic execution:
 
 - 🌐 **Portfolio**: [ajainx1.github.io](https://ajainx1.github.io/portfolio)
-- 🛒 **Jumpstreet Portal**: [ajainx1.github.io/js](https://ajainx1.github.io/js)
+- 🛒 **Jumpstreet Portal**: [jumpstreet.tech](https://jumpstreet.tech)
 - 📱 **VIP WhatsApp/Call**: `+91 98975 77 007`
 - 📧 **Encrypted Contact**: [adityasec32@gmail.com](mailto:adityasec32@gmail.com)
 
