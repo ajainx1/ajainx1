@@ -49,7 +49,7 @@ A proprietary, autonomous indicator and execution bot designed for zero-latency 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajainx1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A86B&text_color=c9d1d9&icon_color=00A86B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajainx1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00A86B&text_color=c9d1d9&icon_color=00A86B" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajainx1&theme=radical&hide_border=true&background=0D1117&ring=00A86B&fire=00A86B&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
