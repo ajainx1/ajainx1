@@ -29,6 +29,11 @@ Welcome to my command center. I am a **Cybersecurity Engineer** and **Algorithmi
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
 </div>
 
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Orca6-Apex_Execution-00A86B?style=for-the-badge&logo=whale&logoColor=white" alt="Orca6 Badge" />
+</div>
+
 ---
 
 ## 🚀 Featured Operations
@@ -44,9 +49,10 @@ A proprietary, autonomous indicator and execution bot designed for zero-latency 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajainx1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajainx1&show_icons=true&theme=dark&icon_color=00A86B&title_color=00A86B" alt="Orca6's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajainx1&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajainx1&theme=dark&ring=00A86B&fire=00A86B" alt="GitHub Streak" />
 </div>
 
 ---
