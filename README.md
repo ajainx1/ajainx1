@@ -1,73 +1,85 @@
 <div align="center">
-  <a href="https://ajainx1.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=200&section=header&text=Aditya%20Jain&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Algorithmic%20Trading%20Developer&descAlignY=55&descSize=20&fontColor=ffffff" alt="Aditya Jain Profile Banner" />
+  <a href="https://adityasec32.systems">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,168,107,0,0,0&height=220&section=header&text=Aditya%20Jain&fontSize=52&fontAlignY=35&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Purple%20Teamer%20%E2%80%A2%20Systems%20Architect&descAlignY=58&descSize=19&fontColor=ffffff" alt="Aditya Jain Profile Banner" width="100%" />
   </a>
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <a href="https://adityasec32.systems"><img src="https://img.shields.io/badge/Portfolio-adityasec32.systems-00A86B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://cyberkarma.me"><img src="https://img.shields.io/badge/Live_App-cyberkarma.me-10B981?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="mailto:adityasec32@gmail.com"><img src="https://img.shields.io/badge/Contact-adityasec32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-Welcome to my command center. I am a **Cybersecurity Engineer** and **Algorithmic Trading Developer**, specializing in building high-performance, secure, and low-latency infrastructure. My expertise spans across network operations, Web3 integrations, and automated execution logic for financial markets.
+<br/>
 
-- 🛡️ **Cybersecurity**: Deep expertise in network hardening, redundant telecom architecture, and threat mitigation.
-- 🐋 **Algorithmic Trading**: Creator of **Orca6**, an elite, sub-millisecond automated trading logic suite.
-- 💼 **Venture Management**: Currently managing technology operations for **Jumpstreet — A Mangalik & Sons Securities** venture.
-- 🌐 **Web3 & Cloud**: Building scalable frontends (Next.js) and managing distributed Windows Cloud VMs for 24/7 autonomous execution.
+## 🛡️ Executive Summary
+
+I am a **Cybersecurity Engineer** and **Systems Architect** with deep specialization in critical infrastructure hardening, network operations (NOC), and high-throughput automated execution systems. I combine offensive threat simulation (Purple Teaming) with defense-in-depth engineering to build resilient, low-latency environments.
+
+- 🔒 **Cybersecurity & Defense**: Network perimeter hardening, incident response, vulnerability assessments, and threat mitigation.
+- 🐾 **CyberKarma Initiative**: Founder & Architect of [CyberKarma](https://cyberkarma.me) — an interactive cybersecurity trivia platform that funds real-world stray animal feeding & welfare drives.
+- ⚡ **Low-Latency Systems**: Developer of high-performance automated algorithms and distributed Windows Cloud VM execution infrastructure.
+- 🌐 **Web Architecture**: Full-stack Next.js/React engineering with strict security headers, optimized CDN caching, and automated static workflows.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,bash,windows,linux" /><br/>
+        <sub><b>Core Stack & Platforms</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Orca6-Apex_Execution-00A86B?style=for-the-badge&logo=whale&logoColor=white" alt="Orca6 Badge" />
-</div>
+### Security & Infrastructure
+Network Hardening • Purple Teaming • Threat Analysis • NOC Operations • Firewall Configuration • DNS/BGP Optimization • Static Security Auditing
+
+### Development & Architecture
+TypeScript / JavaScript • Next.js App Router • React • Tailwind CSS • Python Automation • RESTful APIs • CI/CD Automation
 
 ---
 
-## 🚀 Featured Operations
+## 🚀 Key Ventures & Flagship Projects
 
-### [Jumpstreet Trading Portal](https://jumpstreet.tech)
-A secure, high-availability platform offering VIP algorithmic trading setups. It provisions sub-millisecond Windows Cloud VMs seamlessly integrated with our execution logic.
+### 🐾 [CyberKarma (cyberkarma.me)](https://cyberkarma.me)
+> **Gamified Cybersecurity Trivia & Stray Animal Welfare**
+- Interactive quiz engine educating users on security hygiene, network defense, and trivia.
+- Direct-impact model converting player scores and ad-supported engagement into verified meals for stray dogs and shelter animals.
+- **Tech Stack:** Next.js Static Export, Tailwind CSS, Responsive PWA, Structured SEO Schema.
 
-### 🐋 Orca6 Trading Suite
-A proprietary, autonomous indicator and execution bot designed for zero-latency environments. Engineered for aggressive, bullish momentum.
+### 🏛️ [AdityaSec32 Portfolio (adityasec32.systems)](https://adityasec32.systems)
+> **Engineering Portfolio & Interactive Technical Hub**
+- Interactive security hub showcasing live NOC dashboards, project deep-dives, verifiable impact ledgers, and terminal simulators.
+- **Tech Stack:** Modern Next.js Architecture, Glassmorphic UI, Google AdSense & SEO Optimization.
+
+### 📈 [Jumpstreet Trading Technology (jumpstreet.tech)](https://jumpstreet.tech)
+> **Algorithmic Trading & High-Availability Cloud Infrastructure**
+- Provisioning enterprise Windows cloud VMs integrated with sub-millisecond execution logic and proprietary momentum indicators.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ajainx1?tab=followers"><img src="https://img.shields.io/github/followers/ajainx1?style=for-the-badge&color=00A86B&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/ajainx1?tab=repositories"><img src="https://img.shields.io/github/stars/ajainx1?style=for-the-badge&color=00A86B&logo=github" alt="Stars" /></a>
-  <a href="https://github.com/ajainx1?tab=repositories"><img src="https://img.shields.io/github/repos/ajainx1?style=for-the-badge&color=00A86B&logo=github" alt="Repos" /></a>
-  <br />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajainx1&theme=radical&hide_border=true&background=0D1117&ring=00A86B&fire=00A86B&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajainx1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A86B&icon_color=00A86B" alt="Aditya Jain GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajainx1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A86B" alt="Top Languages" />
 </div>
 
 ---
 
-## 📞 Secure Comms
+## 📬 Encrypted & Professional Comms
 
-If you are interested in a trial of Orca6 or require VIP setup for algorithmic execution:
-
-- 🌐 **Portfolio**: [ajainx1.github.io](https://ajainx1.github.io/portfolio)
-- 🛒 **Jumpstreet Portal**: [jumpstreet.tech](https://jumpstreet.tech)
-- 📱 **VIP WhatsApp/Call**: `+91 98975 77 007`
-- 📧 **Encrypted Contact**: [adityasec32@gmail.com](mailto:adityasec32@gmail.com)
+- 🌐 **Primary Web Portal**: [adityasec32.systems](https://adityasec32.systems)
+- 🎮 **CyberKarma Game**: [cyberkarma.me](https://cyberkarma.me)
+- 💼 **Jumpstreet Portal**: [jumpstreet.tech](https://jumpstreet.tech)
+- ✉️ **Direct Email**: [adityasec32@gmail.com](mailto:adityasec32@gmail.com)
 
 <div align="center">
-  <sub><i>Engineered for Alpha. Secured for Scale.</i></sub>
+  <sub><i>Engineered for Reliability • Secured by Design • Driven by Impact</i></sub>
 </div>
