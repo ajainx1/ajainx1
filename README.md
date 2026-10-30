@@ -18,7 +18,7 @@
 I am a **Cybersecurity Engineer** and **Systems Architect** specializing in Critical National Infrastructure (CNI) surveillance, State Network Operations (NOC), purple-teaming security defense, and high-throughput automated execution engines. 
 
 - 🏛️ **Government & CNI Operations**: Architect of state-wide telemetry, perimeter hardening, and SLA surveillance across 38 district routers and State Data Centre (SDC) e-governance backbones.
-- ⚡ **Host 10.133.22.8 Surveillance Grid**: Engineered autonomous Python recovery watchdogs and low-latency Node.js synthetic heartbeat engines with zero sovereign data egress.
+- ⚡ **State NOC Surveillance Grid**: Engineered autonomous Python recovery watchdogs and low-latency Node.js synthetic heartbeat engines with zero sovereign data egress.
 - 🐶 **CyberKarma Initiative**: Founder & Architect of [CyberKarma](https://cyberkarma.me) — an interactive cybersecurity trivia platform that funds real-world stray animal feeding & welfare drives.
 - 📈 **Low-Latency Systems**: Developer of sub-millisecond execution logic, Windows Cloud VM architectures, and automated trading watchdogs.
 
@@ -26,10 +26,9 @@ I am a **Cybersecurity Engineer** and **Systems Architect** specializing in Crit
 
 ## 🚀 Featured Engineering Operations & Case Studies
 
-### 🛡️ [Bihar State NOC — Uptime Kuma Telemetry Engine (Host: 10.133.22.8)](https://adityasec32.systems/projects#uptime-kuma-10-133-22-8)
+### 🛡️ [State NOC Telemetry Engine](https://adityasec32.systems/projects#uptime-kuma-state-noc)
 > **Mission-Critical State WAN & E-Governance Infrastructure Surveillance**
-- **Host Infrastructure:** Deployed on dedicated State NOC server `10.133.22.8` (Node.js Kernel on port 3001).
-- **Surveillance Scope:** Active sub-second synthetic heartbeats & HTTP/TCP probes monitoring 38 district collectorate router links and critical State Data Centre (SDC) portals (*KhananSoft, EPDS, RTPS*).
+- **Host Infrastructure:** Deployed on dedicated on-premise State NOC telemetry node (Node.js Kernel).
 - **Autonomous Watchdog:** 2-minute recurring Python failover daemon (`portal_monitor_daemon.py`) ensuring zero downtime, automatic crash mitigation, and intranet status dispatch.
 - **Air-Gapped Sovereign Defense:** Strictly zero external network egress — ensuring 100% telemetry confidentiality within the State WAN boundary.
 - **Official Watermarked Dossier:** [Download Sanitized Technical Dossier (PDF)](https://adityasec32.systems/docs/Bihar_State_NOC_Uptime_Kuma_Executive_Dossier.pdf) • [Kernel Architecture (PDF)](https://adityasec32.systems/docs/Bihar_NOC_NodeJS_Kernel_Architecture.pdf) • [WAN Timing Matrix (PDF)](https://adityasec32.systems/docs/Bihar_State_NOC_Ping_Timing_and_Architecture.pdf)
