@@ -17,6 +17,8 @@
 
 I am a **Cybersecurity Engineer** and **Systems Architect** specializing in Critical National Infrastructure (CNI) surveillance, State Network Operations (NOC), purple-teaming security defense, and high-throughput automated execution engines. 
 
+- 🎯 **Core Specializations**: `MH` · `SIEM` · `IDS/IPS` · `NextGen Firewalls` · `Vulnerability Remediation` · `OS - Windows/Linux/AD` · `GTH` · `Penetration Testing` · `TCP/IP` 
+
 - 🏛️ **Government & CNI Operations**: Architect of state-wide telemetry, perimeter hardening, and SLA surveillance across 38 district routers and State Data Centre (SDC) e-governance backbones.
 - ⚡ **State NOC Surveillance Grid**: Engineered autonomous Python recovery watchdogs and low-latency Node.js synthetic heartbeat engines with zero sovereign data egress.
 - 🐶 **CyberKarma Initiative**: Founder & Architect of [CyberKarma](https://cyberkarma.me) — an interactive cybersecurity trivia platform that funds real-world stray animal feeding & welfare drives.
@@ -60,12 +62,29 @@ I am a **Cybersecurity Engineer** and **Systems Architect** specializing in Crit
       </td>
     </tr>
   </table>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/SIEM-Wazuh%20%7C%20Splunk%20%7C%20Sentinel-blue?style=flat-square&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/IDS%2FIPS-Snort%20%7C%20Suricata%20%7C%20Zeek-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/NextGen%20Firewalls-Palo%20Alto%20%7C%20Fortinet%20%7C%20Check%20Point-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Vulnerability%20Remediation-CVE%2FCVSS%20%7C%20SLA%20Tracking-green?style=flat-square" />
+    <br/>
+    <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Active%20Directory-9333ea?style=flat-square&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Threat%20Hunting-MH%20%7C%20GTH%20%7C%20MITRE-b91c1c?style=flat-square" />
+    <img src="https://img.shields.io/badge/Offensive-Penetration%20Testing%20%7C%20VAPT-6b21a8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20Wireshark%20%7C%20DPI-0284c7?style=flat-square" />
+  </div>
 </div>
 
-### Security & Infrastructure Hardening
-State WAN Hardening • Purple Teaming • Threat Simulation • NOC Telemetry • CERT-In Baselines • Zero Trust Architecture • Firewall & Route Flap Mitigation • Incident Response
+### 🛡️ Core Security Competencies
+- **SIEM & IDS/IPS**: Enterprise SIEM deployment (Wazuh, Splunk, Microsoft Sentinel), correlation rule engineering (-30% alert fatigue), custom IDS/IPS signature development (Snort, Suricata, Zeek), and automated AbuseIPDB threat feed blocking.
+- **NextGen Firewalls & TCP/IP**: Deep configuration of NextGen Firewalls (Palo Alto App-ID/Panorama, Check Point, Fortinet FortiGate FCA Certified), default-deny ZTNA, microsegmentation, and TCP/IP protocol suite analysis with deep packet inspection (Wireshark).
+- **Vulnerability Remediation**: End-to-end vulnerability lifecycle management, PoC exploit validation, risk prioritization (CVE/CVSS), SLA tracking across 750+ government endpoints with NIC-CERT/SDC, and 120+ policy-as-code automated compliance checks (KACE UEM).
+- **Threat Hunting (MH & GTH)**: MH (Malware Handling & dynamic sandbox triage), GTH (Guided Threat Hunting), reverse-engineering adversary TTPs, MITRE ATT&CK framework mapping, and 24x7 CNI nuclear SOC operations (+35% true-positive detection boost).
+- **OS Administration & Active Directory**: OS - Windows Server 2019/2022 and Enterprise Linux (RHEL, Debian, Ubuntu) kernel tuning; Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Kerberos authentication, and mitigation against Kerberoasting and DCSync attacks.
+- **Penetration Testing & VAPT**: Red/Purple team adversary simulation, web application and network penetration testing, credential harvesting validation, and offensive lab simulations (Hack The Box, VulnLab multi-forest AD).
 
-### Systems & Automation
+### ⚙️ Systems & Automation
 Python Daemons • Bash & PowerShell Automation • Node.js Kernels • SQLite WAL • Docker & CI/CD Pipelines • Windows Server Administration • Socket.IO Streaming
 
 ---
